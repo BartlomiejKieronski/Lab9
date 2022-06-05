@@ -1,0 +1,16 @@
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\bin\Debug\net5.0\Zadanie1.exe
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\bin\Debug\net5.0\Zadanie1.deps.json
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\bin\Debug\net5.0\Zadanie1.runtimeconfig.json
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\bin\Debug\net5.0\Zadanie1.runtimeconfig.dev.json
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\bin\Debug\net5.0\Zadanie1.dll
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\bin\Debug\net5.0\Zadanie1.pdb
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.csproj.AssemblyReference.cache
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.dll
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\refint\Zadanie1.dll
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.pdb
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\Zadanie1.genruntimeconfig.cache
+C:\Users\Bartek\Desktop\Nowy folder (21)\Zadanie1\Zadanie1\obj\Debug\net5.0\ref\Zadanie1.dll
